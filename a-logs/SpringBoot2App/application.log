@@ -1,0 +1,4 @@
+2022-03-29T18:43:18.142+0530 INFO Starting PetStoreApplication using Java 15.0.1 on INHYNASOMASI01 with PID 13128 (C:\Users\asomasi\code-challenges\pet-store\target\classes started by asomasi in C:\Users\asomasi\code-challenges\pet-store)
+2022-03-29T18:43:18.152+0530 DEBUG Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-29T18:43:18.153+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2022-03-29T18:43:23.285+0530 INFO Started PetStoreApplication in 5.61 seconds (JVM running for 6.894)
